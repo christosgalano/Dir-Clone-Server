@@ -1,5 +1,7 @@
 # Directory Clone Server
 
+An FTP-like Server utilizing socket and thread programming with synchronization. A client makes a request to the server providing the server's directory to be cloned into results. A server can handle requests from multiple clients.
+
 ## Build and run instructions
 
 - From the Project_2 directory run `make` to the executables
