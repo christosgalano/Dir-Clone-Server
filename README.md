@@ -4,8 +4,8 @@ An FTP-like Server utilizing socket and thread programming with synchronization.
 
 ## Build and run instructions
 
-- From the Project_2 directory run `make` to the executables
-- From the Project_2 directory run `make clean` to clean the bin and the results folders
+- Run `make` to the executables
+- Run `make clean` to clean the bin and the results folders
 
 ## Implementation details
 
