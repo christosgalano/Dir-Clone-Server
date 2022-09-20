@@ -9,7 +9,7 @@ An FTP-like server utilizing socket and thread programming with synchronization.
 
 ## Implementation details
 
-The code contains pretty detailed comments, so what follow is an analysis of the main implementation decisions that were taken:
+The code contains pretty detailed comments, so what follows is an analysis of the main implementation decisions that were taken:
 
 ### Server logic
 
